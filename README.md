@@ -1,5 +1,7 @@
 # streaming-01-getting-started
 
+Harinya Potluri 
+
 > Get started with Python for streaming analytics
 
 We assume no prior programming experience and that you want to 
